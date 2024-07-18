@@ -75,6 +75,8 @@ repositories {
 
 dependencies {
   compile 'rouchuan.viewpagerlayoutmanager:viewpagerlayoutmanager:2.x.y'
+
+    implementation 'com.github.CMzhizhe:ViewPagerLayoutManager:v1.0.1'
 }
 ```
 
